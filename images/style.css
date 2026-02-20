@@ -1,0 +1,169 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+                 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #0a0f1c, #111a2e);
+    color: #e0e6f0;
+    
+}
+
+
+
+#main-header {
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #ffffff;
+    text-align: center;
+    padding: 60px 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+}
+
+#main-header h1 {
+    margin: 0;
+    font-size: 3em;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.6);
+    
+}
+
+
+
+#trailer-link {
+    margin: 0;
+    text-align: left;
+    font-size: 1em;
+}
+
+tagline {
+    font-style: italic;
+    font-size: 1.2em;
+    margin: 10px 0;
+    color: #4da6ff;
+}
+
+
+
+#About-movie {
+    padding: 20px 1px;
+    background: #141c2f;
+    text-align: left;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.2);
+}
+
+.poster {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-right: 6000px;
+    margin-left: 0.1px;
+    border: 2px solid #1e90ff;
+    border-radius: 6px;
+}
+
+
+
+#char-ac {
+    padding: 40px 20px;
+    background: #101827;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.15);
+    text-align: center;
+}
+
+#thom  {
+    padding: 40px 20px;
+    background: #101827;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.15);
+    text-align: left;
+    
+}
+
+#Kev {
+    padding: 40px 20px;
+    background: #101827;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.15);
+    text-align: left;
+}
+
+#Lay {
+    padding: 40px 20px;
+    background: #101827;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.15);
+    text-align: left;
+}
+
+#Mac  {
+    padding: 40px 20px;
+    background: #101827;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.15);
+    text-align: left;
+}
+
+
+
+#show-times {
+    padding: 40px 20px;
+    background: #141c2f;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 140, 255, 0.2);
+}
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 3px solid #1e90ff;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #1e3c72;
+    color: #ffffff;
+}
+
+tr:hover {
+    background-color: #1a2335;
+}
+
+
+
+#main-footer {
+    background: #0a0f1c;
+    color: #cccccc;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #1e90ff;
+}
+
+
+
+.social-link {
+    color: #4da6ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.social-link:hover {
+    color: #1e90ff;
+    text-decoration: underline;
+}
